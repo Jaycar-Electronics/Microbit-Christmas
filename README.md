@@ -28,6 +28,7 @@ Requires 2xAA batteries (not included)
 | 2   | [ZD0170](https://jaycar.com.au/p/ZD0170) | Green LED                     |
 | 3   | [ZD0160](https://jaycar.com.au/p/ZD0160) | Yellow LED                    |
 | 1   | [WC6026](https://jaycar.com.au/p/WC6026) | Socket to socket jumper leads |
+| 1   | [SB2424](https://jaycar.com.au/p/SB2424) | Double pack of AA batteries   |
 
 ### You will also need
 
